@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Ali Hassan",
+    "department": "Computer Science"
+  },
+  {
+    "id": 2,
+    "name": "Mariam Iqbal",
+    "department": "Business Administration"
+  },
+  {
+    "id": 3,
+    "name": "Omar Siddiqui",
+    "department": "Computer Science"
+  }
+]

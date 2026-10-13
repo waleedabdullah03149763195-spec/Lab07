@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Khan",
+    "department": "Engineering",
+    "position": "Software Engineer"
+  },
+  {
+    "id": 2,
+    "name": "Bilal Ahmed",
+    "department": "Human Resources",
+    "position": "HR Specialist"
+  },
+  {
+    "id": 3,
+    "name": "Sara Malik",
+    "department": "Finance",
+    "position": "Financial Analyst"
+  },
+  {
+    "id": 4,
+    "name": "Hamza Ali",
+    "department": "Marketing",
+    "position": "Marketing Coordinator"
+  },
+  {
+    "id": 5,
+    "name": "Fatima Noor",
+    "department": "Operations",
+    "position": "Operations Manager"
+  },
+  {
+    "id": 6,
+    "name": "Usman Raza",
+    "department": "Engineering",
+    "position": "QA Engineer"
+  }
+]
